@@ -2,6 +2,11 @@ table {
 	border-collapse: collapse;
 }
 table, th, td {
-	text-align:left;
 	border:2px solid black;
+}
+td{
+	text-align:right;
+}
+.txt{
+	text-align:left;
 }
